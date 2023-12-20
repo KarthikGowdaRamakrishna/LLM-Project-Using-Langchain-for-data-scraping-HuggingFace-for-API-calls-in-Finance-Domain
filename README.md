@@ -1,0 +1,2 @@
+# LLM-Project-Using-Langchain-for-data-scraping-HuggingFace-for-API-calls-in-Finance-Domain
+building a news research tool that can be used by equity research analysts to conduct their research by uploading relevant articles and asking Hugging Face API (was suppose to be OpenAI API due to the new changes and recent events as off winter 2023 there is no free API calls that can be made to OpenAI API )  questions off of that like a chatbot 
